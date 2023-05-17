@@ -1,6 +1,6 @@
 <h1>🛠️ Project - Game RPG💻</h1>
 
-## 👨🏻‍🔬 Heros: 
+## ⚔ Heros: 
 
  
  --- 
@@ -8,9 +8,9 @@
 
 ## 📱 Description:
 
-<p>Is a basic game RPG done with C# when i was studing Programing Oriented Object to improve my logic and discovery new functions and commands  language C#.</p><br>
+<p>It's a basic RPG game made with C# from when I studied Object Oriented Programming to improve my logic and discover new functions and commands of the C# language..</p><br>
 
-# 👨‍💻 Projeto feito por ➡ Saulo Lohan 
+# 👨‍💻 Project made by ➡ Saulo Lohan 
  [LinkedIn](https://www.linkedin.com/in/saulo-lohan-matoso-soares-801b431b3/)   
 
 
